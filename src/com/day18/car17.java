@@ -1,6 +1,6 @@
 package com.day18;
 
-public class car17 extends vehicle15 {
+public class car17 extends vehicle17 {
 	
 final String type = "++car Generic Vehicle";
 	
