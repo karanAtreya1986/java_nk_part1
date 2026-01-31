@@ -1,6 +1,6 @@
 package com.day18;
 
-public class car16 extends vehicle15 {
+public class car16 extends vehicle16 {
 	
 final String type = "Generic Vehicle";
 	
@@ -8,7 +8,7 @@ final String type = "Generic Vehicle";
 	
 	//even without overload annotation the same error for final methods.
 	
-//Cannot override the final method from vehicle15
+//Cannot override the final method from vehicle16
 	public final void startengine() {
 		System.out.println("car start engine method");
 	}
