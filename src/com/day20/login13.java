@@ -1,6 +1,6 @@
 package com.day20;
 
-public class login13 extends page12 {
+public class login13 extends page13 {
 	
 	//name and id taken from parent itself.
 
