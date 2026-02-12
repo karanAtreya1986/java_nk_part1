@@ -42,7 +42,7 @@ public class testfor5 {
 	
 	//can access only page methods not the child classes.
 	System.out.println("---------------");
-	page6 p1=new login6();
+	page5 p1=new login5();
 	p1.loading();
 	boolean b2=p1.unloading();
 	System.out.println(b2);
