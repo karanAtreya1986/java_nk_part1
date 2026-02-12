@@ -53,3 +53,122 @@ public class testfor5 {
 
 }
 
+
+// child class login title overridden method
+// child class url overridden method
+// gorilla
+// child Page is loading...
+// static method with return from childkaran
+// chimpaanzee
+// static method with return from childaustralia
+// chimpaanzee
+// final method without returngeorgia
+// final method with returncambodia
+// lion
+// child Page is loading...
+// Page is unloading...
+// true
+// static final method without returngimper
+// static final method without returnusa
+// static final method with returnjapan
+// tiger
+// static final method with returncanada
+// tiger
+// test static without return method
+// ---------------
+// child Page is loading...
+// Page is unloading...
+// true
+
+// 1️⃣ Abstract Method Overrides
+// l1.title();
+// l1.url();
+
+
+// Runs child class methods:
+
+// child class login title overridden method
+// child class url overridden method
+// gorilla
+
+// 2️⃣ Overridden Normal Method
+// l1.loading();
+
+
+// Child version is called:
+
+// child Page is loading...
+
+// 3️⃣ Static Method (Method Hiding)
+// l1.getstatic("karan");
+// login5.getstatic("australia");
+
+
+// Static methods depend on class name, not object.
+
+// Both call login5 method:
+
+// static method with return from childkaran
+// chimpaanzee
+// static method with return from childaustralia
+// chimpaanzee
+
+// 4️⃣ Final Methods (From Parent)
+// l1.getfinal("georgia");
+// l1.getfinal1("cambodia");
+
+
+// Final methods cannot be overridden:
+
+// final method without returngeorgia
+// final method with returncambodia
+// lion
+
+// 5️⃣ Parent Method (Not Overridden)
+// l1.unloading();
+
+
+// Uses page5 method:
+
+// Page is unloading...
+// true
+
+// 6️⃣ Static Final Methods (Parent)
+// l1.getstaticfinal("gimper");
+// login5.getstaticfinal("usa");
+// l1.getstaticfinal1("japan");
+// login5.getstaticfinal1("canada");
+
+
+// All from page5:
+
+// static final method without returngimper
+// static final method without returnusa
+// static final method with returnjapan
+// tiger
+// static final method with returncanada
+// tiger
+
+// 7️⃣ Static Method test()
+// l1.test();
+
+// test static without return method
+
+// 8️⃣ Polymorphism Example
+// page5 p1 = new login5();
+// p1.loading();
+// p1.unloading();
+
+
+// Dynamic binding applies only to non-static, non-final methods.
+
+// So:
+
+// loading() → child
+
+// unloading() → parent
+
+// ---------------
+// child Page is loading...
+// Page is unloading...
+// true
