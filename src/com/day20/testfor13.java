@@ -36,25 +36,7 @@ public class testfor13 {
 }
 
 
-//null
-//0
-//default child constructor
-//child class override loading
-//parent class login title  method
-//child class override unloading
-//false
-//parent class url method
-//gorilla
-//------------
-//tiger
-//543543
-//parameter child constructor
-//child class override loading
-//parent class login title  method
-//child class override unloading
-//false
-//parent class url method
-//gorilla
+
 
 
 
