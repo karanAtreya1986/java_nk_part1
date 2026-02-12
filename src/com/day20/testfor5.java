@@ -53,29 +53,3 @@ public class testfor5 {
 
 }
 
-//child class login title overridden method
-//child class url overridden method
-//gorilla
-//child Page is loading...
-//static method with return from childkaran
-//chimpaanzee
-//static method with return from childaustralia
-//chimpaanzee
-//final method without returngeorgia
-//final method with returncambodia
-//lion
-//child Page is loading...
-//Page is unloading...
-//true
-//static final method without returngimper
-//static final method without returnusa
-//static final method with returnjapan
-//tiger
-//static final method with returncanada
-//tiger
-//test static without return method
-//---------------
-//Page is loading...
-//child class override unloading
-//true
-
